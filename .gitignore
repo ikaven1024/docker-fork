@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+
+/docker-fork
+
+# OSX trash
+.DS_Store
